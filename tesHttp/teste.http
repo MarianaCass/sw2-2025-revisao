@@ -1,0 +1,3 @@
+@url = https://special-guacamole-jjqvwpgjv6w92j5g6-3000.app.github.dev
+
+GET {{url}/api/teste
